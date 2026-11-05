@@ -1,0 +1,9 @@
+{
+  "name": "pdfloom",
+  "version": "1.1.0",
+  "description": "Create PDFs from HTML, web pages or invoice data.",
+  "mcpServers": {
+    "pdfloom": { "httpUrl": "https://pdfloom.dev/mcp" }
+  },
+  "contextFileName": "GEMINI.md"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pdfloom": {
+      "type": "http",
+      "url": "https://pdfloom.dev/mcp"
+    }
+  }
+}

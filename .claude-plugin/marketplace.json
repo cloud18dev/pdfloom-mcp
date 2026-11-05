@@ -1,0 +1,7 @@
+{
+  "name": "pdfloom",
+  "owner": { "name": "PDFLoom", "url": "https://pdfloom.dev" },
+  "plugins": [
+    { "name": "pdfloom", "source": "./", "description": "Create PDFs from HTML, web pages or invoice data, from your AI assistant." }
+  ]
+}

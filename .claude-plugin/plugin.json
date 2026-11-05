@@ -1,0 +1,10 @@
+{
+  "name": "pdfloom",
+  "version": "1.1.0",
+  "description": "Create PDFs from HTML, web pages or invoice data, from your AI assistant.",
+  "author": { "name": "PDFLoom", "url": "https://pdfloom.dev" },
+  "homepage": "https://pdfloom.dev/docs#mcp",
+  "repository": "https://github.com/cloud18dev/pdfloom-mcp",
+  "license": "MIT",
+  "keywords": ["pdf", "html-to-pdf", "invoice", "receipt", "documents", "mcp"]
+}
