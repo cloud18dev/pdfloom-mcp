@@ -4,7 +4,27 @@
   "title": "PDFLoom",
   "description": "HTML or URL to PDF with headless Chrome, and invoice/receipt/quote PDFs from JSON.",
   "websiteUrl": "https://pdfloom.dev/docs#mcp",
-  "version": "1.1.0",
+  "repository": {
+    "url": "https://github.com/cloud18dev/pdfloom-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://pdfloom.dev/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    },
+    {
+      "src": "https://pdfloom.dev/apple-touch-icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "180x180"
+      ]
+    }
+  ],
+  "version": "1.2.0",
   "remotes": [
     {
       "type": "streamable-http",
